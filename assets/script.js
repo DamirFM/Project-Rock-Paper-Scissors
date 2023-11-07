@@ -20,7 +20,6 @@ function getComputerChoice(items) {
   
 }
 
-
 function computerSelection () {
   return getComputerChoice(items).toUpperCase();
 }
